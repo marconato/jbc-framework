@@ -8,4 +8,6 @@ To work persistently in the database was used Hibernate Framework, which through
 
 As the JBC Framework is an implementation of the business layer, it can be used for any type of implementation of the concept MVC View, ie it is independent interface presentation to the customer, can be used in applications J2SE and J2EE J2ME , with applications Desktop, Web and Mobile.
 
+JBC Framework is an open-source
+
 @ author: Rodrigo Leandro Marconato

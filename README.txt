@@ -8,4 +8,6 @@ Para trabalhar com persistência em banco de dados, foi utilizado o Framework Hi
 
 Como o JBC é um Framework de implementação da camada de negócio, ele pode ser usado para qualquer tipo de implementação View do conceito MVC, ou seja, é independente de interface de apresentação com o cliente, pode ser utilizado em aplicações J2SE, J2ME e J2EE, sendo aplicações Desktop, Web e Mobile.
 
+JBC é um Framework open-source
+
 @autor: Rodrigo Leandro Marconato

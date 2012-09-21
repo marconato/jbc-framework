@@ -1,9 +1,11 @@
 jbc-framework
 
-JBC - Java Business Controller, é um Framework de Controle da camada de Negócio para projetos desenvolvidos em Java, seu principal objetivo é otimizar o tempo de desenvolvimento que é usado para projetar códigos repetitivos, que por sua vez são muito frequentes quando se trata de controle de transação e persistência em banco de dados.
+JBC - Java Business Controller, Ã© um Framework de Controle da camada de NegÃ³cio para projetos desenvolvidos em Java, seu principal objetivo Ã© otimizar o tempo de desenvolvimento que Ã© usado para projetar cÃ³digos repetitivos, que por sua vez sÃ£o muito frequentes quando se trata de controle de transaÃ§Ã£o e persistÃªncia em banco de dados.
 
-O JBC é utilizado somente na camada de negócio para projetos desenvolvidos em Java, auxiliando como um utilitário para as camadas de Model e Control do modelo de desenvolvimento MVC. Sua função é fazer o controle de transações entre as operações e realizar o acesso ao banco de dados, sendo através de persistência ou consultas. A base principal para o seu desenvolvimento, foi a utilização dos conceitos Java de Generics e Reflection, ou seja, programação genérica.
+O JBC Ã© utilizado somente na camada de negÃ³cio para projetos desenvolvidos em Java, auxiliando como um utilitÃ¡rio para as camadas de Model e Control do modelo de desenvolvimento MVC. Sua funÃ§Ã£o Ã© fazer o controle de transaÃ§Ãµes entre as operaÃ§Ãµes e realizar o acesso ao banco de dados, sendo atravÃ©s de persistÃªncia ou consultas. A base principal para o seu desenvolvimento, foi a utilizaÃ§Ã£o dos conceitos Java de Generics e Reflection, ou seja, programaÃ§Ã£o genÃ©rica.
 
-Para trabalhar com persistência em banco de dados, foi utilizado o Framework Hibernate, que através dos conceitos de Criteria e HQL, auxiliaram no encapsulamento e na manipulação dos objetos com a base de dados, como também tornaram o JBC independente de banco de dados, ou seja, um item deixado para a escolha do desenvolvedor. Por fim, para se conectar com o Database, foi utilizado a API JDBC.
+Para trabalhar com persistÃªncia em banco de dados, foi utilizado o Framework Hibernate, que atravÃ©s dos conceitos de Criteria e HQL, auxiliaram no encapsulamento e na manipulaÃ§Ã£o dos objetos com a base de dados, como tambÃ©m tornaram o JBC independente de banco de dados, ou seja, um item deixado para a escolha do desenvolvedor. Por fim, para se conectar com o Database, foi utilizado a API JDBC.
 
-Como o JBC é um Framework de implementação da camada de negócio, ele pode ser usado para qualquer tipo de implementação View do conceito MVC, ou seja, é independente de interface de apresentação com o cliente, pode ser utilizado em aplicações J2SE, J2ME e J2EE, sendo aplicações Desktop, Web e Mobile.
+Como o JBC Ã© um Framework de implementaÃ§Ã£o da camada de negÃ³cio, ele pode ser usado para qualquer tipo de implementaÃ§Ã£o View do conceito MVC, ou seja, Ã© independente de interface de apresentaÃ§Ã£o com o cliente, pode ser utilizado em aplicaÃ§Ãµes J2SE, J2ME e J2EE, sendo aplicaÃ§Ãµes Desktop, Web e Mobile.
+
+@autor: Rodrigo Leandro Marconato

@@ -1,4 +1,4 @@
-jbc-framework
+﻿jbc-framework
 
 JBC - Java Business Controller, é um Framework de Controle da camada de Negócio para projetos desenvolvidos em Java, seu principal objetivo é otimizar o tempo de desenvolvimento que é usado para projetar códigos repetitivos, que por sua vez são muito frequentes quando se trata de controle de transação e persistência em banco de dados.
 
@@ -11,3 +11,5 @@ Como o JBC é um Framework de implementação da camada de negócio, ele pode se
 JBC é um Framework open-source
 
 @autor: Rodrigo Leandro Marconato
+
+Siga o blog JBC: http://jbc-framework.blogspot.com.br/

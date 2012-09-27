@@ -11,3 +11,5 @@ Como o JBC é um Framework de implementação da camada de negócio, ele pode se
 JBC é um Framework open-source
 
 @autor: Rodrigo Leandro Marconato
+
+Siga o blog JBC: http://jbc-framework.blogspot.com.br/

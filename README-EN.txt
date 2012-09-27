@@ -11,3 +11,5 @@ As the JBC Framework is an implementation of the business layer, it can be used 
 JBC Framework is an open-source
 
 @ author: Rodrigo Leandro Marconato
+
+Follow the JBC: http://jbc-framework.blogspot.com.br/
